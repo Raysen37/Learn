@@ -3,10 +3,10 @@
         {
             "name": "Target 1",
             "includePath": [
-                "d:\\Document\\OLED_Chrom\\Start",
-                "d:\\Document\\OLED_Chrom\\User",
-                "d:\\Document\\OLED_Chrom\\Library",
-                "d:\\Document\\OLED_Chrom\\Hardware",
+                "d:\\Document\\Learn\\OLED_Chrom\\Start",
+                "d:\\Document\\Learn\\OLED_Chrom\\User",
+                "d:\\Document\\Learn\\OLED_Chrom\\Library",
+                "d:\\Document\\Learn\\OLED_Chrom\\Hardware",
                 "D:\\Software\\Keil_v5\\ARM\\ARMCC\\include"
             ],
             "defines": [
